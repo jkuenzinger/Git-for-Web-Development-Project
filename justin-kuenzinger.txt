@@ -1,6 +1,4 @@
-https://codepen.io/Jkuenzinger/pen/oNggYyY?editors=1100
-
-
+https://codepen.io/Jkuenzinger/pen/oNggYyY
 
 1. What is Semantic HTML? 
 It is marking HTML in a way that introduces meaning to the content.
